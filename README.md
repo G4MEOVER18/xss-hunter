@@ -201,3 +201,7 @@ MIT License — Copyright (c) 2026 G4MEOVER18
 ## Unterstütze dieses Projekt
 
 Bitcoin: `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
+
+## Preview
+
+![CLI Preview](docs/screenshots/preview.png)
