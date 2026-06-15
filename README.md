@@ -202,6 +202,8 @@ MIT License — Copyright (c) 2026 G4MEOVER18
 
 Bitcoin: `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
 
+**Kontakt:** [g4me.over.18@gmail.com](mailto:g4me.over.18@gmail.com)
+
 ## Preview
 
 ![CLI Preview](docs/screenshots/preview.png)
