@@ -1,5 +1,7 @@
 # XSS Hunter
 
+[![CI](https://github.com/G4MEOVER18/xss-hunter/actions/workflows/python-lint.yml/badge.svg)](https://github.com/G4MEOVER18/xss-hunter/actions/workflows/python-lint.yml)
+
 **Advanced Cross-Site Scripting Detection Tool**  
 von G4MEOVER18 (Yanis)
 
